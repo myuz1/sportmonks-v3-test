@@ -9,7 +9,7 @@ package main
 import (
 "context"
 "fmt"
-"github.com/statistico/statistico-sportmonks-go-client"
+"github.com/myuz1/sportmonks-v3-test"
 )
 
 func main() {

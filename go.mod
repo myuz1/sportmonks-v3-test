@@ -1,4 +1,4 @@
-module github.com/statistico/statistico-sportmonks-go-client
+module github.com/myuz1/sportmonks-v3-test
 
 go 1.16
 
